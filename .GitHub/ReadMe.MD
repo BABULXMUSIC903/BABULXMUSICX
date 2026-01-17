@@ -1,50 +1,97 @@
-<h1 align="center"><b>𝐁𝐀𝐁𝐔𝐋-𝗠𝗨𝗦𝗜𝗖 🎧</b></h1>
+━━━━━━━━━━━━━━━━
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+
+<!--
+**TeamAloneOp/AloneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p align="center">
-  <img src="https://files.catbox.moe/897gi2.jpg" width="500"/>
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://files.catbox.moe/bonngs.jpg" />
+</p>
+
+
+
+
+<h2 align="center">
+    𖢵 queen χ мυѕι¢ 𖢵
+
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ʙᴀʙᴜʟ+🎭">
+<p align="center">
+  
+</p>
+
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐁ᴀʙᴜʟ 𝐌ᴜsɪᴄ](https://t.me/BA_X_QUEEN_BOT)**
+
+
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
+
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/BABULXQUEEN596/BABULXMUSIC)
+
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
+
+### 🔧 Quick Setup
+
+1. **Upgrade & Update:**
+   ```bash
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
+
+2. **Install Required Packages:**
+   ```bash
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+3. **Setting up PIP**
+   ```bash
+   sudo pip3 install -U pip
+   ```
+4. **Installing Node**
+   ```bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
+   ```
+5. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ASIFXQUEEN/QUEENXNAVEIB-UPDATED && cd QUEENXNAVEIB-UPDATED
+   ```
+6. **Install Requirements**
+   ```bash
+   pip3 install -U -r requirements.txt
+   ```
+7. **Installing tmux**
+    ```bash
+    sudo apt install tmux -y && tmux
+   ```
+8. **Editing Vars:**
+   ```bash
+   bash setup
+   ```
+9. **Run the Bot**
+    ```bash
+    bash start
+    ```
+
+---
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=620&lines=🍁+🎧+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗤𝗨𝗘𝗘𝗡+𝗫+𝗠𝗨𝗦𝗜𝗖+🎧+🍁">
+<a href="https://telegram.me/TeamAloneOps"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
-<h2 align="center">✨ Deploy Your Own Telegram Music Bot Easily! ✨</h2>
-
----
-
-### 🌐 Deploy Method:
-
-#### 🚀 Deploy on Heroku
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/BABULXQUEEN596/X_QUEEN)
-
----
-
-### 💻 Manual VPS / Local Deploy:
-
-```bash
-# Update and upgrade packages
-sudo apt-get update && sudo apt-get upgrade -y
-
-# Install dependencies
-sudo apt-get install python3-pip ffmpeg -y
-sudo pip3 install -U pip
-curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-
-# Clone the bot
-git clone https://github.com/ASIFXQUEEN/XQUEEN-MUSIC-903 && cd XQUEEN-MUSIC-903
-
-# Install requirements
-pip3 install -U -r requirements.txt
-
-# Edit env
-vi sample.env  # Press I to edit, Ctrl+C to exit, then :wq to save
-
-# Rename env file
-mv sample.env .env
-
-# Use tmux to keep bot running
-sudo apt install tmux && tmux
-
-# Run the bot
-bash start
 
